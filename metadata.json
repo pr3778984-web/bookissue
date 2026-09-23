@@ -1,0 +1,6 @@
+{
+  "name": "Dhariya Primary School Library Management",
+  "description": "ધારીયા પ્રાથમિક શાળા (ડાયસ કોડ: 24170302303, તા. હાલોલ, જિ. પંચમહાલ) માટે ધોરણ ૧ થી ૮ નું પુસ્તકાલય અને વિદ્યાર્થી વ્યવસ્થાપન સોફ્ટવેર.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
